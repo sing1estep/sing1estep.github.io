@@ -6,4 +6,5 @@ author: sing1estep
 
 <aside>
   <link rel="me" href="https://infosec.exchange/@singlestep">
+  <link rel="icon" type="image/x-con" href="/images/favicon.ico">
 </aside>
