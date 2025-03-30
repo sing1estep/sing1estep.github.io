@@ -1,7 +1,8 @@
 ---
 title: De gustibus non est disputandum
-author: 
-  name: sing1estep
+author:
+    name: sing1estep
+    email: "sing1estep@supernot.org"
 description: -
   Information of questionable value
 social_links:
