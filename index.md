@@ -1,7 +1,6 @@
 ---
 title: De gustibus non est disputandum
-description: -
-  Information of questionable value
+description: Information of questionable value
 social_links:
     - title: Sing1estep's GitHub
       icon: github
